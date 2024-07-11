@@ -6,5 +6,5 @@ defineOptions({
 
 <template>
   <h1>Pure-Admin-Thin（非国际化版本）</h1>
-  <div>hello pure-admin 001</div>
+  <div>hello pure-admin 002</div>
 </template>
